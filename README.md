@@ -1,4 +1,4 @@
-![image](https://github.com/Kamish1ro/JavaSnakeGame/assets/158153135/02bd4afe-4f84-44e8-b46a-bb04788c8fd8)
+![image](https://github.com/Kamish1ro/JavaSnakeGame/assets/158153135/96b22715-bdbc-4122-90c0-a3be9532db24)
 
 Игра написана при помощи свинга
 
